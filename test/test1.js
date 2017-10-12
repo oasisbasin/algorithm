@@ -7,4 +7,6 @@ const test=(a,b,summ)=>{
  };
 };
 test(5,6,11);
+test(3,2,6);
+test(2,2,4);
 
